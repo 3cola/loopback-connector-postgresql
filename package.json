@@ -1,7 +1,7 @@
 {
-  "name": "loopback-connector-postgresql",
+  "name": "loopback-connector-postgresql-redshift",
   "version": "3.3.2",
-  "description": "Loopback PostgreSQL Connector",
+  "description": "Loopback PostgreSQL/Redshift Connector",
   "engines": {
     "node": ">=6"
   },
@@ -9,6 +9,7 @@
     "StrongLoop",
     "LoopBack",
     "PostgreSQL",
+    "Redshift",
     "DataSource",
     "Connector"
   ],
@@ -40,7 +41,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/strongloop/loopback-connector-postgresql.git"
+    "url": "https://github.com/3cola/loopback-connector-postgresql.git"
   },
   "license": "Artistic-2.0"
 }
