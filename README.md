@@ -1,3 +1,8 @@
+Forked from [strongloop/loopback-connector-postgresql 3.3.2](https://github.com/strongloop/loopback-connector-postgresql)
+
+added a hack for redshift compatibility in model autodiscovery.
+
+
 # loopback-connector-postgresql
 
 [PostgreSQL](https://www.postgresql.org/), is a popular open-source object-relational database.
