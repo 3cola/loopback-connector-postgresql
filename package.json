@@ -1,6 +1,6 @@
 {
   "name": "loopback-connector-postgresql-redshift",
-  "version": "3.3.3",
+  "version": "3.3.4",
   "description": "Loopback PostgreSQL/Redshift Connector",
   "engines": {
     "node": ">=6"
