@@ -1,6 +1,6 @@
 {
   "name": "pamdigital-dw-custom-loopback-connector",
-  "version": "3.3.2",
+  "version": "3.3.3",
   "description": "Loopback PostgreSQL/Redshift Connector",
   "engines": {
     "node": ">=6"
